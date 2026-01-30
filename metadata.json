@@ -1,0 +1,5 @@
+{
+  "name": "GrooveSync",
+  "description": "A collaborative music listening experience. Create playlists with YouTube links, listen in sync (simulated) with friends, and chat with an AI DJ powered by Gemini.",
+  "requestFramePermissions": []
+}
